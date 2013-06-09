@@ -1,6 +1,6 @@
 {
-  "name": "btcwatch",
-  "description": "btcwatch app",
+  "name": "vacation",
+  "description": "vacation app",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
